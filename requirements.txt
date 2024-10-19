@@ -1,5 +1,3 @@
-requirements = """
 streamlit
 pandas
 pickle5
-"""
